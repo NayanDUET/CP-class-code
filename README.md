@@ -1,5 +1,5 @@
 # CP-class-code
-## Example Code
+
 
 ```javascript
 function sayHello() {
